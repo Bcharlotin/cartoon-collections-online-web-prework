@@ -1,5 +1,5 @@
 def roll_call_dwarves(drawves)
-  num= (1..4)
+  num = (1..7)
   drawves.each do |x,num|
     puts num x
   # code an argument here
