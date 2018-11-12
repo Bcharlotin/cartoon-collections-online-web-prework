@@ -1,5 +1,5 @@
 def roll_call_dwarves(drawves)
-   dwar
+   puts drawves
   # code an argument here
   # Your code here
 end
